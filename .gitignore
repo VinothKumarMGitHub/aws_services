@@ -1,2 +1,4 @@
-# Google App Engine generated folder
-appengine-generated/
+
+.aws-sam/build/
+samconfig.toml
+src/**/aws-lambda-tools-defaults.json
